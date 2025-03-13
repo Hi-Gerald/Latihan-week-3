@@ -37,5 +37,6 @@ public class TugasLatihan {
         for (char i : arrayKarakter){
              System.out.print(i);
         }
+        input.close();
     }
 }
